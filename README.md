@@ -28,7 +28,7 @@ En los siguientes enlaces puedes encontrar cursos en la plataforma de edu.codigo
 
 Estas son las instrucciones para crear el flow desde cero. Este repositorio incluye el archivo JSON con el Flow funcional.
 
-1. Duplicar el flow 2 con las mecanicas de exportar e importar
+1. Duplicar el [flow 2](https://github.com/MichelRodriguez10023695/Flow2-nodeRed-G12) con las mecanicas de exportar e importar
 2. Renombrar el flow a Flow 3
 3. Agregar el nodo texto
 4. Crear una pestaña en la sección Dashboard
